@@ -1,7 +1,7 @@
 {
-  "name": "Reddit Searcher",
+  "name": "Suffx Search",
   "version": "1.0",
-  "description": "Searches Google for Reddit results of the selected text.",
+  "description": "Customize your Google search with a suffix.",
   "permissions": [
     "tabs",
     "contextMenus"
